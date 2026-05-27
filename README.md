@@ -4,7 +4,7 @@ I am Krishna Mahawar, writing readme file!
 I want to make a EDA + MATPLOTLIB + Scikit-learn + Machine learning model (4) Project that is  using NASA's Near-Earth Objects (NEO) dataset from Kaggle, classified as hazardous vs. non-hazardous using scikit-learn, with rich Matplotlib visualizations.
 
 Dataset
-NASA Nearest Earth Objects — from NASA's NeoWs API via Kaggle
+NASA Nearest Earth Objects - from NASA's NeoWs API via Kaggle
 
 ~90,000 asteroids, features: estimated diameter, relative velocity, miss distance, absolute magnitude, hazardous label
 Kaggle link: kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects
