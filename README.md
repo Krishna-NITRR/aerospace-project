@@ -1,5 +1,5 @@
 # aerospace-project
-I am Krishna, writing readme file sir!
+I am Krishna Mahawar, writing readme file!
 
 I want to make a EDA + MATPLOTLIB + Scikit-learn + Machine learning model (4) Project that is  using NASA's Near-Earth Objects (NEO) dataset from Kaggle, classified as hazardous vs. non-hazardous using scikit-learn, with rich Matplotlib visualizations.
 
